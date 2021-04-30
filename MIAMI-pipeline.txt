@@ -1,0 +1,152 @@
+Clock Cycle: 1
+Executing: ['add', 's1', 's2', 's3', '']
+Fetching: ['sub', 't1', 't2', 's3', '']
+Register $zero value: 0
+Register $at value: 0
+Register $v0 value: 0
+Register $v1 value: 0
+Register $a0 value: 0
+Register $a1 value: 0
+Register $a2 value: 0
+Register $a3 value: 0
+Register $t0 value: 0
+Register $t1 value: 0
+Register $t2 value: 0
+Register $t3 value: 0
+Register $t4 value: 0
+Register $t5 value: 0
+Register $t6 value: 0
+Register $t7 value: 0
+Register $s0 value: 0
+Register $s1 value: 0
+Register $s2 value: 0
+Register $s3 value: 0
+Register $s4 value: 0
+Register $s5 value: 0
+Register $s6 value: 0
+Register $s7 value: 0
+Register $t8 value: 0
+Register $t9 value: 0
+Register $k0 value: 0
+Register $k1 value: 0
+Register $gp value: 0
+Register $sp value: 0
+Register $fp value: 0
+Register $ra value: 0
+Memory[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+####################################################
+####################################################
+Clock Cycle: 2
+Executing: ['sub', 't1', 't2', 's3', '']
+Fetching: ['j', 'label', '']
+Register $zero value: 0
+Register $at value: 0
+Register $v0 value: 0
+Register $v1 value: 0
+Register $a0 value: 0
+Register $a1 value: 0
+Register $a2 value: 0
+Register $a3 value: 0
+Register $t0 value: 0
+Register $t1 value: 0
+Register $t2 value: 0
+Register $t3 value: 0
+Register $t4 value: 0
+Register $t5 value: 0
+Register $t6 value: 0
+Register $t7 value: 0
+Register $s0 value: 0
+Register $s1 value: 0
+Register $s2 value: 0
+Register $s3 value: 0
+Register $s4 value: 0
+Register $s5 value: 0
+Register $s6 value: 0
+Register $s7 value: 0
+Register $t8 value: 0
+Register $t9 value: 0
+Register $k0 value: 0
+Register $k1 value: 0
+Register $gp value: 0
+Register $sp value: 0
+Register $fp value: 0
+Register $ra value: 0
+Memory[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+####################################################
+####################################################
+Clock Cycle: 3
+Executing: ['label:', '']
+Fetching: ['or', 's1', 's2', 's3']
+Register $zero value: 0
+Register $at value: 0
+Register $v0 value: 0
+Register $v1 value: 0
+Register $a0 value: 0
+Register $a1 value: 0
+Register $a2 value: 0
+Register $a3 value: 0
+Register $t0 value: 0
+Register $t1 value: 0
+Register $t2 value: 0
+Register $t3 value: 0
+Register $t4 value: 0
+Register $t5 value: 0
+Register $t6 value: 0
+Register $t7 value: 0
+Register $s0 value: 0
+Register $s1 value: 0
+Register $s2 value: 0
+Register $s3 value: 0
+Register $s4 value: 0
+Register $s5 value: 0
+Register $s6 value: 0
+Register $s7 value: 0
+Register $t8 value: 0
+Register $t9 value: 0
+Register $k0 value: 0
+Register $k1 value: 0
+Register $gp value: 0
+Register $sp value: 0
+Register $fp value: 0
+Register $ra value: 0
+Memory[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+####################################################
+####################################################
+Clock Cycle: 4
+Executing: ['or', 's1', 's2', 's3']
+Fetching: None
+Register $zero value: 0
+Register $at value: 0
+Register $v0 value: 0
+Register $v1 value: 0
+Register $a0 value: 0
+Register $a1 value: 0
+Register $a2 value: 0
+Register $a3 value: 0
+Register $t0 value: 0
+Register $t1 value: 0
+Register $t2 value: 0
+Register $t3 value: 0
+Register $t4 value: 0
+Register $t5 value: 0
+Register $t6 value: 0
+Register $t7 value: 0
+Register $s0 value: 0
+Register $s1 value: 0
+Register $s2 value: 0
+Register $s3 value: 0
+Register $s4 value: 0
+Register $s5 value: 0
+Register $s6 value: 0
+Register $s7 value: 0
+Register $t8 value: 0
+Register $t9 value: 0
+Register $k0 value: 0
+Register $k1 value: 0
+Register $gp value: 0
+Register $sp value: 0
+Register $fp value: 0
+Register $ra value: 0
+Memory[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+####################################################
+####################################################

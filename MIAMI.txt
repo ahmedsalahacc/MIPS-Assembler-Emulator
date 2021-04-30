@@ -1,0 +1,7 @@
+add $s1, $s2, $s3
+sub $t1, $t2, $s3
+j label
+nor $t5, $t1, $t2
+and $t0, $s0, $s5
+label:
+or $s1, $s2, $s3
