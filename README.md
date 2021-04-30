@@ -10,3 +10,5 @@ BEWARE of starting an infinite loop using jump and label
 3. run the main.py file
 4. 3 New files will be generated ($(name of the file)-bin.txt, $(name of the file)-output.txt, $(name of the file)-pipeline.txt)
    containing the pipeline, the binary, and the emulation of the program.
+
+### MIPS code examples can be found in flow.txt
